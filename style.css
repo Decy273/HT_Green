@@ -1,0 +1,336 @@
+
+
+html {
+  height: 100%;
+  background-image: url('images/ht800bulbs.jpg');
+  image-resolution: 1080px ;
+  padding: 20px;
+max-width: auto;
+max-height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+body {
+  height: 250% 100%;
+  background-color: rgb(255, 255, 255);
+  width: 85%;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 70%
+
+} 
+
+nav {
+text-align: right;
+font-size: 20px;
+position: relative; 
+bottom: 20px;
+font-weight: 400;
+
+}
+form {
+text-align: center;
+
+
+}
+#ht_green_banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+  margin-top: 20px;
+
+}
+#ht_green_banner_contact {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+  margin-top: 20px;
+
+}
+
+
+#header_section {
+  text-align: left;
+  margin: 2% 12% 0% 5%;
+ display:flex;
+}
+
+#solar_pv_solutions_section {
+  text-align: left;
+  margin: 2% 12% 0% 5%;
+ display:flex;
+  
+}
+#solar_house_img {
+  float: right;
+  position: relative;
+  left: 30px;
+  bottom: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+
+}
+#geothermal_section {
+  text-align: left;
+  margin: 2% 12% 0% 5%;
+ display:flex;
+}
+#geothermal_power_img {
+  float: right;
+  position: relative;
+  left: 30px;
+  bottom: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+#wind_turbines_section {
+  text-align: left;
+  margin: 2% 12% 0% 5%;
+ display:flex;
+}
+#wind_turbine_img {
+  float: right;
+  position: relative;
+  left: 30px;
+  bottom: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+#about_us_section {
+  text-align: center;
+  margin: 2% 12% 0% 5%;
+
+
+}
+#back_to_top_button1 {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 30px;
+ padding-left: 30px;
+
+
+}
+#back_to_top_button2 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 30px;
+ padding-left: 30px;
+margin-left: 45%;
+width: 200px
+
+}
+#about_us {
+position: relative 240px;
+margin: 3% 7%;
+
+}
+#testimonials {
+  margin: 5% 2%;
+
+
+}
+#homepage {
+  margin: 5% 2%;
+}
+
+#testimonial_name{
+font-weight: bold;
+font-size: larger;
+
+}
+.top_header {
+ text-align: left;
+}
+.navigation_anchor {
+ text-align: right;
+ text-decoration: none;
+ color: rgb(0, 0, 0);
+}
+
+.back_to_top {
+  background-color: #ffffff71;
+  color: white;
+  border-radius: 15px;
+  background: #b5b6b5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+  size-adjust: 200px;
+  text-decoration: none;
+  border: 10px;
+}
+
+.ht_green_logo {
+position: relative;
+top: 57%;
+right: 5%;
+bottom: 5%;
+left: 0%;
+padding: 1%;
+max-width: 30px;
+max-height: 30px;
+} 
+.june_gavin_section {   
+  width: 80%;
+  padding-bottom: 20px;
+  background-color: rgb(243, 233, 233);
+  border-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 2pt solid rgb(74, 204, 9);
+  border-top: 2pt solid rgb(74, 204, 9);
+  border-right: 2pt solid rgb(74, 204, 9);
+  border-left: 3pt Solid rgba(74, 204, 9, 0.524);
+  box-shadow: -0.5em 0 .4em rgb(21, 220, 48);
+}
+
+.sandra_peter_section {
+  width: 80%;
+  background-color: rgb(243, 233, 233);
+  border-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 2pt solid rgb(74, 204, 9);
+  border-top: 2pt solid rgb(74, 204, 9);
+  border-right: 2pt solid rgb(74, 204, 9);
+  border-left: 3pt Solid rgba(74, 204, 9, 0.524);
+  box-shadow: -0.5em 0 .4em rgb(21, 220, 48);
+}
+
+.roberta_section {
+  width: 80%;
+  background-color: rgb(243, 233, 233);
+  border-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 2pt solid rgb(74, 204, 9);
+  border-top: 2pt solid rgb(74, 204, 9);
+  border-right: 2pt solid rgb(74, 204, 9);
+  border-left: 4pt Solid rgba(74, 204, 9, 0.524);
+  box-shadow: -0.5em 0 .4em rgb(21, 220, 48);
+}
+.june_gavin_img {
+  float: left;
+  align-items: stretch;
+}
+
+.sandra_peter_img {
+  float: left;
+}
+.roberta_img {
+  float: left;
+}
+.top_header {
+  border-bottom: 1pt solid rgb(0, 0, 0);
+  width: 89%;
+text-align: left;
+margin: 3% 5%
+}
+.solar_pv_solutions {
+  border-bottom: 1pt solid rgb(0, 0, 0);
+  width: 89%;
+text-align: left;
+margin: 3% 5%
+}
+.geothermal_header {
+  border-bottom: 1pt solid rgb(0, 0, 0);
+  width: 89%;
+text-align: left;
+margin: 3% 5%
+}
+.wind_section_header {
+  border-bottom: 1pt solid rgb(0, 0, 0);
+  width: 89%;
+text-align: left;
+margin: 3% 5%
+}
+.about_us_header{
+  border-bottom: 1pt solid rgb(0, 0, 0);
+  width: 89%;
+text-align: left;
+margin: 3% 5%
+
+}
+.testimonial_header {
+width: 89%;
+text-align: center;
+margin: 3% 5%
+}
+
+#footer_paragraph {
+  height: auto;
+  background-color: chocolate;
+  font-weight: bold;
+  color: white;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+#text_box {
+  margin-left: auto;
+  margin-right: auto;
+ min-height: 100%;
+
+
+}
+#contact_us_txt {
+text-align: center;
+
+
+}
+#input_form{
+text-decoration: underline;
+position: relative;
+top: 40%;
+left: 0%;
+font-size: large;
+
+
+}
+#turbine_img {
+position: relative;
+left: 34%;
+right:20%;
+border-radius: 30px;
+max-width: 30%;
+max-height: 30%;
+padding: 1%;
+
+}
+#input_txt {
+border-style: double;
+border-radius: 15px;
+border-color: rgb(0, 0, 0);
+width: 30%;
+
+
+}
+
+#message_input{
+  border-style: double;
+border-radius: 15px;
+border-color: rgb(0, 0, 0);
+border-width: 2px;
+width: 30%;
+}
+#submit_button {
+  border-style: double;
+  border-radius: 15px;
+  border-color: rgb(0, 0, 0);
+  width: 30%;
+}
